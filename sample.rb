@@ -1,5 +1,7 @@
 def hello
-  p "hello, GitHub."
+  p "hello, だいき"
 end
 
-hello
+def second
+  p "ブランチ操作の練習用です"
+end
