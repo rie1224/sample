@@ -9,3 +9,7 @@ end
 def third
   p "ブランチ作成練習中"
 end
+
+def practice
+  p "ブランチ平行作業の練習中です"
+end
