@@ -15,3 +15,8 @@ def practice
 end
 
 これはthirdでの変更です
+サル先生のGitコマンド
+add 変更をインデックスに登録する
+pull リモートリポジトリの内容を取得する
+
+これはforthの変更です
